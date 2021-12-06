@@ -3,7 +3,7 @@ An unofficial library for discord webhooks
 
 <h2>By <a href="https://tyger375.tk/">tyger 375#4141</a></h2>
 
-**requires requests and json modules**
+**requires requests and json modules installed**
 
 Login to the webhook:
 

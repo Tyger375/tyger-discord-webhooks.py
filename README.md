@@ -1,4 +1,4 @@
-# tyger-discord.py
+# tyger-discord-webhooks.py
 An unofficial library for discord webhooks
 
 <h2>By <a href="https://tyger375.tk/">tyger 375#4141</a></h2>
